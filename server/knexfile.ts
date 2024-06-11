@@ -1,5 +1,3 @@
-// 1 hora e 03 minutos
-
 import path from 'path';
 
 module.exports = {
@@ -9,6 +7,9 @@ module.exports = {
     },
     migrations:{
         directory: path.resolve(__dirname,'src','database','migrations')
+    },
+    seeds:{
+        directory: path.resolve(__dirname,'src','database','seeds')
     },
     useNullAsDefault: true,
 };
