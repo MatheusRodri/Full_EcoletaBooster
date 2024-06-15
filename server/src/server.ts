@@ -1,4 +1,4 @@
-// 43 minutos restantes
+// 23 minutos restantes
 
 import express from 'express';
 import routes from './routes';
