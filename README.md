@@ -1,3 +1,7 @@
+# Sobre o projeto
+
+
+
 # Como rodar o projeto
 
 - Entre na pasta server
@@ -7,3 +11,4 @@
 - Rode o comando npm run knex:migrate
 
 
+Projeto desenvolvido durante a NLW 1 - Booster
